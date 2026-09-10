@@ -32,4 +32,10 @@ If AI can eventually write the code for me, I would rather be the person who can
 
 So, for me, the answer to “Why are we here?” is not to become a programmer who can write code faster than AI.
 
-We are here to understand the medium we create with, and to keep our ability to make judgments about the creative process.
+We are here to understand the medium we create with, and to keep our ability to make judgments about the creative process!
+
+##Bibliography
+Beattie, D. (2020). The art of code [Video]. YouTube.
+Ihde, D. (1990). Technology and the lifeworld: From garden to earth. Indiana University Press.
+Lovelace, A. (1843). Note G. In Sketch of the analytical engine invented by Charles Babbage.
+Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, 2(42), 230–265.
