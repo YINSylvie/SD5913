@@ -59,7 +59,7 @@ ZOOM = 11
 TILES = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"
 CREDIT = "map: Esri, HERE, Garmin, © OpenStreetMap contributors · currents: Hydrographic Office, Hong Kong"
 
-SLOW, FAST = "#2a6f7f", "#d6591d"
+SLOW, FAST = "#67fffa", "#ff44e3"
 
 HERE = Path(__file__).parent
 DATA = HERE / "data" / "tidal-streams-2026-09-14-to-18.csv"   # written by fetch.py
